@@ -1,4 +1,3 @@
-# PST-Gen
 # PST-Gen: A Privacy-Preserving Framework for Cross-Domain Cascade Detection in Arabic
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -103,18 +102,6 @@ For real-data evaluation:
 | CARMA (public sample) | [smankarious/carma](https://huggingface.co/datasets/smankarious/carma) | 100 Reddit posts |
 | MentalQA (Train+Dev) | [hasanhuz/MentalQA](https://github.com/hasanhuz/MentalQA) | 350 questions |
 
-## Citation
-
-If you use PST-Gen, the benchmark, or the pre-trained models in your research, please cite:
-
-```bibtex
-@article{francies2026pstgen,
-  title   = {PST-Gen: A Privacy-Preserving Framework for Cross-Domain Cascade Detection in Morphologically Complex Languages --- A Case Study on Arabic Health and Education NLP},
-  author  = {Francies, Mariam Labib and Khalil, Abeer Twakol and Amer, Hanan M. and Ata, Mohamed Maher},
-  journal = {IEEE Access},
-  year    = {2026}
-}
-```
 
 ## Privacy and Ethical Use
 
@@ -126,9 +113,5 @@ This repository is released under the MIT License (see `LICENSE`). Source corpor
 
 ## Contact
 
-Mariam Labib Francies — <your-email>
+Mariam Labib Francies — <mariamlabib90@std.mans.edu.eg>
 PhD Candidate, Department of Electronics and Communication Engineering, Mansoura University.
-
-## Acknowledgements
-
-We thank our supervisors Prof. Abeer Twakol Khalil, Prof. Hanan M. Amer, and Prof. Mohamed Maher Ata for their guidance throughout this work. Computational resources were provided by Google Colab's free tier.
