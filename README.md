@@ -7,8 +7,7 @@
 Official repository for the paper:
 
 > **PST-Gen: A Privacy-Preserving Framework for Cross-Domain Cascade Detection in Morphologically Complex Languages — A Case Study on Arabic Health and Education NLP**
-> Mariam Labib Francies, Abeer Twakol Khalil, Hanan M. Amer, Mohamed Maher Ata.
-> *IEEE Access*, 2026.
+
 
 ## Overview
 
